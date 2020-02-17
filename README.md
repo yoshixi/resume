@@ -15,11 +15,13 @@
 - Go
 - GAS
 - マークアップ
+- js
 
 ### フレームワーク
 - Ruby on Rails
 - Puppeteer
 - Docker
+- Vue
 - Redash
 
 ### その他
@@ -53,13 +55,18 @@
 
 #### テイクアウトアプリの開発
 - テイクアウトアプリ [mecimo](https://mecimo.jp/)の開発
-- 使用技術: GAE/GCS/CloudSQL/Docker/Swagger/Stripe
+- 使用技術: GAE/GCS/CloudSQL/Docker/Swagger/Stripe/Vue
 
 RailsをつかったAPIの開発をしました。
+認証にJWTを使用しました。
 このプロジェクトとは新規で設計からぜんぶやらせてもらいました。
 APIのシリアライザーとして、fast_jsonapiも使いました。 [fast_json:APIについては、Quiitaに投稿しました](https://qiita.com/yoshixj/items/6499490f6fbefea05cae)
 またGAEのflexible環境を使い、RailsをGCP上にホスティングしてました。
 決済にStripeを使用したので、そのトランザクションを慎重に実装しました。
+
+また少しですが、業務委託の方にも手伝ってもらい、管理画面の実装も行いました。
+管理画面の実装としては、仕様変更、SEOなどが必要ない点などを考慮し、Vue.jsでSPAで実装しました。
+データの管理として、Vuexを使用しました。
 
 #### グルメアプリの開発
 - お気に入りのお見せをストックできる、[グルポケ](https://lp.gpocket.jp/)というアプリを開発してました。
