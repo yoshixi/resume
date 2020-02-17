@@ -17,21 +17,21 @@
 - マークアップ
 - js
 
-### フレームワーク
+### フレームワーク、プラットフォーム
 - Ruby on Rails
 - Puppeteer
 - Docker
 - Vue
-- Redash
+- Haroku
+- GCP
+  - GAE/GCS/CloudSQL/CloudTasks/CloudScheduler/CloudFunction
+- Firebase
 
 ### その他
 - github
 - slack/chatwork
 - Asana
-- Haroku
-- GCP
-  - GAE/GCS/CloudSQL/CloudTasks/CloudScheduler/CloudFunction
-- Firebase
+- Redash
 
 ## 言語
 - 日本語
