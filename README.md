@@ -55,7 +55,7 @@
 
 #### テイクアウトアプリの開発
 - テイクアウトアプリ [mecimo](https://mecimo.jp/)の開発
-- 使用技術: GAE/GCS/CloudSQL/Docker/Swagger/Stripe/Vue
+- 使用技術: Rails5/GAE/GCS/CloudSQL/Docker/Swagger/Stripe/Vue
 
 RailsをつかったAPIの開発をしました。
 認証にJWTを使用しました。
