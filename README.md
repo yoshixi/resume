@@ -112,4 +112,4 @@ Railsを使ったAPIの開発をしてました。
 ## 課外活動
 
 ### 過去の登壇資料
-* [Speaker Deck]([Speaker Deckの自分の資料のページとか](https://speakerdeck.com/yoshixj))
+* [Speaker Deck](https://speakerdeck.com/yoshixj)
