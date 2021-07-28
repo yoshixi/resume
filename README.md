@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|増渕 佳輝|
-|Blog|[ブログ](https://note.com/yoshixj)|
+|Blog|[ブログ](https://yoshixj.com)|
 |Quiita|[Quita](https://qiita.com/yoshixj)|
 |Twitter|[@yoshixj](https://twitter.com/yoshixj)|
 
@@ -19,6 +19,9 @@
 
 ### フレームワーク、プラットフォーム
 - Ruby on Rails
+- Golang
+  - WF [99designs/gqlgen](https://github.com/99designs/gqlgen) / [go-chi/chi](https://github.com/go-chi/chi)
+  - ORM [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
 - Puppeteer
 - Docker
 - Vue
@@ -38,11 +41,11 @@
   - ネイティブ
 - 英語
   - 英語ドキュメントをなんとなく読める程度
-  - TOEIC: 550点 (2016年に受けたものなので期限切れになっていますmm)
+  - TOEIC: 550点 (2015年の大学入学時に受けたもの)
 
 ## 強み
-- 経験上新規開発などが多く、アーキテクチャを考えつつ、コーディングをします
-- 食わずぎらいをせず、任されたことを責任もってやります
+- 経験上新規開発などが多く、アーキテクチャを考えつつ、コーディングした経験がおおいです。
+- コードを書く以外も食わずぎらいをせずにやってきました。
 
 ## やったことはないが興味があるもの
 - 小さい規模の開発が多かったので、大規模の開発に入ってみたいです。
