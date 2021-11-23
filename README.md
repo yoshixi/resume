@@ -8,27 +8,39 @@
 |Blog|[ブログ](https://yoshixj.com)|
 |Quiita|[Quita](https://qiita.com/yoshixj)|
 |Twitter|[@yoshixj](https://twitter.com/yoshixj)|
-
-## スキル
-### 言語
+### 言語使用経験
 - Ruby
 - Go
 - GAS
 - マークアップ
 - js
 
-### フレームワーク、プラットフォーム
-- Ruby on Rails
-- Golang
-  - WF [99designs/gqlgen](https://github.com/99designs/gqlgen) / [go-chi/chi](https://github.com/go-chi/chi)
-  - ORM [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
-- Puppeteer
+- 日本語
+  - ネイティブ
+- 英語
+  - 開発に関する英語ドキュメントを読める程度
+
+### フレームワーク、プラットフォーム使用経験
+- Ruby
+  - Ruby on Rails
+  - middleman
+- Go
+  - [99designs/gqlgen](https://github.com/99designs/gqlgen)
+  - [go-chi/chi](https://github.com/go-chi/chi)
+  - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
+  - dbmate
+  - goa
+- typescript, javascript
+  - Puppeteer
+  - React / Next.js
+  - Vue / Nuxt.js
+
 - Docker
-- Vue
 - Haroku
 - GCP
   - GAE/GCS/CloudSQL/CloudTasks/CloudScheduler/CloudFunction
 - Firebase
+  - Authentication/CloudFunctions/CloudStorage/Hosting/Fireastore
 
 ### その他
 - github
@@ -36,49 +48,45 @@
 - Asana
 - Redash
 
-## 言語
-- 日本語
-  - ネイティブ
-- 英語
-  - 英語ドキュメントをなんとなく読める程度
-  - TOEIC: 550点 (2015年の大学入学時に受けたもの)
+### 強み
+- 経験上新規開発などが多く、アーキテクチャを考えつつ、コーディングをします。
+- 食わずぎらいをせず、サービスの成長に必要なことをやります。
+### やったことはないが興味があるもの
+- 一桁人数の会社でのｎ小さい規模の開発が多かったので、大規模の開発。
 
-## 強み
-- 経験上新規開発などが多く、アーキテクチャを考えつつ、コーディングした経験がおおいです。
-- コードを書く以外も食わずぎらいをせずにやってきました。
+# 職務経歴
 
-## やったことはないが興味があるもの
-- 小さい規模の開発が多かったので、大規模の開発に入ってみたいです。
-
-## 職務経歴
-
-中央大学情報工学科卒業。
-在学中から
-
-- HP制作会社
-- 大手プログラミング教育会社
-- 開発メンバーが一桁のチーム
-
-にて業務をしてきました。
+|  date  |  v1  | v2   |
+| ----   | ---- | ---- |
+|  2015  |  中央大学理工学部情報工学科入学  | |
+|  2016  |  株式会社フォーデジット (アルバイト) | マークアップエンジニア |
+|  2017  |  株式会社div (インターン) | メンター |
+|  2018  |  株式会社NiCOLA (インターン) | Rails エンジニア |
+|  2019  |  中央大学理工学部情報工学科卒業 | 楕円暗号の研究してました。 |
+|  2019  |  株式会社NiCOLA (正社員) | Tech Lead |
+|  2020  |  株式会社Doorkel (業務委託) | Rails エンジニア / 教育機関向けSaasの開発 |
+|  2021  |  株式会社Seibii (業務委託) | Ruby エンジニア / SEOにあわせたメディアの改修 |
 
 
-### 2019/08 -  現在 : 株式会社NiCOLA
-- D2C事業の支援ツールの開発
-- 使用技術: Golang/Nuxt x Typescript/GAE/CloudTasks/ShopifyAPI/Firestore
+## 株式会社NiCOLA (2018/08 -  現在)
 
-自社のD2C事業を支援するツールの開発を行っています。
-責務が分散した、軽いAPIなどを作ることが多くなるため、Golangをサバーサイド言語としてさいようしてます。
-WFとしてはgoaを採用しています。Open APIでスキーマ駆動で開発できる恩恵と、サービスが分散することを予測しておりOpenAPIの記述を矯正することで、将来のメンテコストを下げる要因になるのではないかと考えています。
+### Shopify アプリの開発
+- 使用技術: Next.js x Typescript / Firestore
+### D2C事業の支援ツールの開発
+- 使用技術
+  - backend:  Golang x gqlgen
+  - frontend: Nuxt x Typescript x graphql-codegenerator
+  - infra:    GAE/CloudTasks/Firestore/CloudSQL/ShopifyAPI
 
-### 2020/02 -  : 株式会社Doorkel
-- 教育機関向けマーケティング支援ツールの開発
-- 仕様技術 Rails/Vue/ZoomAPI
+自社のD2C事業を支援するツールの開発を行っていました。
+- ShopifyのAPIを利用してデータを習得し、BigQuery,Redashを使って分析できるようなシステムの構築
+- 発注データをためるようなSaasを想定したサービスの開発
+をおこなっていました。
+GraphQLを使用し、schema firstな開発とtype safeな開発がしたかったため、gqlgenをFWに選びました。
+サービスは社内公開後、更新が業務の変化に追いつかず、closeしてしまいました。
 
-バックエンドにRails、フロントエンドにNuxtを仕様して開発をおこなっています。
+### テイクアウトアプリ [mecimo](https://mecimo.jp/)の開発 (2018/08-2019/08)
 
-
-#### 2018/08-2019/08: 株式会社NiCOLA
-- テイクアウトアプリ [mecimo](https://mecimo.jp/)の開発
 - 使用技術: Rails5/GAE/GCS/CloudSQL/Docker/Swagger/Stripe/Vue
 
 RailsをつかったAPIの開発をしました。
@@ -92,8 +100,8 @@ APIのシリアライザーとして、fast_jsonapiも使いました。 [fast_j
 管理画面の実装としては、仕様変更、SEOなどが必要ない点などを考慮し、Vue.jsでSPAで実装しました。
 データの管理として、Vuexを使用しました。
 
-#### 2018/08-2019/01: 株式会社NiCOLA
-- お気に入りのお見せをストックできる、[グルポケ](https://lp.gpocket.jp/)というアプリを開発してました。
+### グルメアプリ [グルポケ](https://lp.gpocket.jp/)の開発(2018/08-2019/01)
+- お気に入りのお見せをストックできる、というアプリを開発してました。
 - 使用技術: heroku/Rails4/postgres/PostGis/Docker/Redash/Swagger
 
 Railsを使ったAPIの開発をしてました。
@@ -105,8 +113,20 @@ Railsを使ったAPIの開発をしてました。
 失敗談としては
 - 既存のpostgis用のadapter gemをうまく使いこなすことができず、modelに直接クエリを書いてしまったこと
 - 初期に設計していたDBの設計よくなかった。(リレーション関係がまず、statusの管理など)
+などがありました。
 
-### 2017/07 - 2018/08: 株式会社div
+## 株式会社Doorkel (2020/02 -  現在)
+### 教育機関向けマーケティング支援ツールの開発
+- 仕様技術
+  - backend: Rails (REST API + Graphql)
+  - front: Nuxt (一部 typescript)
+  - infra: heroku/ZoomAPI
+
+バックエンドにRails、フロントエンドにNuxtを仕様して開発をおこなっています。
+vue3 に伴い、一部サービスにcomposition APIの導入も主導して行いました。
+typescript, composition API, graphql-code-generator を導入することで、Frontの開発体験が飛躍するので、おすすめです。
+
+## 株式会社div (2017/07 - 2018/08)
 職務: インターン、メンター
 
 - RubyOnRailsを教えるプログラミング講師のメンターをしていました。
@@ -119,9 +139,9 @@ Railsを使ったAPIの開発をしてました。
 一番の得られたものは傾聴力です。様々な人と働く上で、相手がどう思っているかを常に聞く姿勢はとても大切なものだと日々感じています。
 また、成長しているベンチャー企業の会社の文化も生で感じることができた会社でした。
 
-### 2016/08 - 2017/08: 株式会社フォーデジット
+## 株式会社フォーデジット (2016/08 - 2017/08)
 
-#### ホームページの改修業務
+### ホームページの改修業務
 職務: コーダー
 
 - HTML/CSS/JSで作られたホームページのの改修をしてました.
