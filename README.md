@@ -13,8 +13,7 @@
 - Go
 - GAS
 - マークアップ
-- js
-
+- javascript, typescript
 - 日本語
   - ネイティブ
 - 英語
