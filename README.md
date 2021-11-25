@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|増渕 佳輝|
+|Name|増渕 佳輝(マスブチ ヨシキ)|
 |Blog|[ブログ](https://yoshixj.com)|
 |Quiita|[Quita](https://qiita.com/yoshixj)|
 |Twitter|[@yoshixj](https://twitter.com/yoshixj)|
