@@ -9,58 +9,10 @@
 | Quiita  | [Quita](https://qiita.com/yoshixj)      |
 | Twitter | [@yoshixj](https://twitter.com/yoshixj) |
 
-### 言語使用経験
-
-- Ruby
-- Go
-- GAS
-- マークアップ
-- javascript, typescript
-- plat uml
-- 日本語
-  - ネイティブ
-- 英語
-  - 開発に関する英語ドキュメントを読める程度
-
-### フレームワーク、プラットフォーム使用経験
-
-- Ruby
-  - Ruby on Rails
-  - middleman
-- Go
-  - [99designs/gqlgen](https://github.com/99designs/gqlgen)
-  - [go-chi/chi](https://github.com/go-chi/chi)
-  - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
-  - dbmate
-  - goa
-- typescript, javascript
-
-  - Puppeteer
-  - React / Next.js
-  - Vue / Nuxt.js
-
-- Docker
-- Haroku
-- GCP
-  - GAE/GCS/CloudSQL/CloudTasks/CloudScheduler/CloudFunction
-- Firebase
-  - Authentication/CloudFunctions/CloudStorage/Hosting/Fireastore
-
-### その他
-
-- github
-- slack/chatwork
-- Asana
-- Redash
-
-### 特性
-
-- 経験上新規開発などが多く、アーキテクチャを考えつつ、コーディングをします。
-- 食わずぎらいをせず、サービスの成長に必要なことをやります。
-
-### やったことはないが興味があるもの
-
-- 一桁人数の会社でのｎ小さい規模の開発が多かったので、大規模の開発。
+## サマリー
+これまで、ホームページ制作から、RailsとVue.jsを用いた業務を多くやっていきました。
+webフロントからバックエンドまで一気通貫して、開発することができます。
+得意なバックエンドFWはRails, フロントエンドFWはNuxt.js ですが、GoやReactなどの使用経験もあり、キャッチアップはそこまで時間かからず業務をすることも可能です。
 
 # 職務経歴
 
@@ -171,9 +123,52 @@ platuml などを使用することで、メンバーの認識を揃えていき
 サイトとしては、大手不動産会社のホームページともあり、中規模〜大規模の HP のマークアップ改修業務を行いました。
 正直先端な技術とかは使ってはなく、複数箇所にまたがるような同じパターンの変更などもあり、時には数十の HTML/CSS ファイルのコードを一括で置換するなどの作業も行いました。
 
-## 課外活動
+# 言語使用経験
+
+- Ruby
+- Go
+- GAS
+- マークアップ
+- javascript, typescript
+- plat uml
+- 日本語
+  - ネイティブ
+- 英語
+  - 開発に関する英語ドキュメントを読める程度
+
+### フレームワーク、プラットフォーム使用経験
+
+- Ruby
+  - Ruby on Rails
+  - middleman
+- Go
+  - [99designs/gqlgen](https://github.com/99designs/gqlgen)
+  - [go-chi/chi](https://github.com/go-chi/chi)
+  - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
+  - dbmate
+  - goa
+- typescript, javascript
+
+  - Puppeteer
+  - React / Next.js
+  - Vue / Nuxt.js
+
+- Docker
+- Haroku
+- GCP
+  - GAE/GCS/CloudSQL/CloudTasks/CloudScheduler/CloudFunction
+- Firebase
+  - Authentication/CloudFunctions/CloudStorage/Hosting/Fireastore
+
+### その他
+
+- github
+- slack/chatwork
+- Asana
+- Redash
+
+# 課外活動
 
 ### 過去の登壇資料
 
-- [Speaker Deck](https://speakerdeck.com/yoshixj)
 - [Speaker Deck](https://speakerdeck.com/yoshixj)
