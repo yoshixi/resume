@@ -1,3 +1,4 @@
+## [English CV](https://github.com/yoshixj/resume/blob/master/README.en.md)
 # 職務経歴書
 
 ## 基本情報
