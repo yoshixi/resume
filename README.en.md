@@ -79,7 +79,7 @@ As for the failures
 - I couldn't get the existing adapter gem for postgis to work, so I wrote a sql directly in the model
 - The initial design of the Database was not good. (bad relationships, status management, etc.)
 
-## Doorkel (2020/02 - 現在)
+## Doorkel (2020/02 - Current)
 
 ### Development of marketing support tools for educational institutions
 
@@ -124,11 +124,11 @@ We didn't use the most advanced technology like vue, react at that time, and som
 - Ruby
 - Go
 - GAS
-- マークアップ
+- html, css
 - javascript, typescript
 - plat uml
-- 日本語
-  - ネイティブ
+- Japanese
+  - Native
 - 英語
   - 開発に関する英語ドキュメントを読める程度
 
