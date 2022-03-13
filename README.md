@@ -6,9 +6,9 @@
 | key     | value                                   |
 | ------- | --------------------------------------- |
 | Name    | 増渕 佳輝(マスブチ ヨシキ)              |
-| Blog    | [ブログ](https://yoshixj.com)           |
+| Blog    | [ブログ](https://yoshixi.dev)           |
 | Quiita  | [Quita](https://qiita.com/yoshixj)      |
-| Twitter | [@yoshixj](https://twitter.com/yoshixj) |
+| Twitter | [@__yoshixi](https://twitter.com/__yoshixi) |
 
 ## サマリー
 これまで、ホームページ制作から、RailsとVue.jsを用いた業務を多くやっていきました。
